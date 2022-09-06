@@ -1,5 +1,5 @@
 {
-  "/blog-e12": {
+  "/ISE-Docusaurus/blog-0dd": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "c551ceff"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "c1dd9d7b"
   },
-  "/blog/archive-ebe": {
+  "/ISE-Docusaurus/blog/archive-a4a": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "c551ceff"
     },
-    "archive": "b2f554cd"
+    "archive": "ed3c6f2b"
   },
-  "/blog/first-blog-post-489": {
+  "/ISE-Docusaurus/blog/first-blog-post-4c4": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "c551ceff"
@@ -36,7 +36,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/blog/long-blog-post-47b": {
+  "/ISE-Docusaurus/blog/long-blog-post-5f9": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "c551ceff"
@@ -44,7 +44,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/blog/mdx-blog-post-dd3": {
+  "/ISE-Docusaurus/blog/mdx-blog-post-102": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "c551ceff"
@@ -52,15 +52,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/blog/tags-b31": {
+  "/ISE-Docusaurus/blog/tags-fa5": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "c551ceff"
     },
     "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "tags": "f2a63703"
   },
-  "/blog/tags/docusaurus-6c8": {
+  "/ISE-Docusaurus/blog/tags/docusaurus-7b8": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "c551ceff"
@@ -80,10 +80,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "0dcd1914",
+    "listMetadata": "c1dfbf5e"
   },
-  "/blog/tags/facebook-fd0": {
+  "/ISE-Docusaurus/blog/tags/facebook-a0c": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "c551ceff"
@@ -94,10 +94,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "031793e1",
-    "listMetadata": "096bfee4"
+    "tag": "86de7db3",
+    "listMetadata": "bcfce745"
   },
-  "/blog/tags/hello-c82": {
+  "/ISE-Docusaurus/blog/tags/hello-44c": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "c551ceff"
@@ -111,10 +111,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "408ca3c6",
+    "listMetadata": "108d2ba2"
   },
-  "/blog/tags/hola-fe7": {
+  "/ISE-Docusaurus/blog/tags/hola-017": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "c551ceff"
@@ -125,10 +125,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "tag": "f05be1ef",
+    "listMetadata": "dc57520a"
   },
-  "/blog/welcome-9ca": {
+  "/ISE-Docusaurus/blog/welcome-a53": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "c551ceff"
@@ -136,65 +136,65 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/markdown-page-645": {
+  "/ISE-Docusaurus/markdown-page-fd7": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "82356b38"
     },
     "content": "393be207"
   },
-  "/docs-3c2": {
+  "/ISE-Docusaurus/docs-de6": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "e25340be"
     },
     "versionMetadata": "935f2afb"
   },
-  "/docs/category/tutorial---basics-d44": {
+  "/ISE-Docusaurus/docs/category/tutorial---basics-ac7": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "ea88f2a1"
+    "categoryGeneratedIndex": "0d738957"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/ISE-Docusaurus/docs/category/tutorial---extras-099": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "c844b82d"
+    "categoryGeneratedIndex": "ad35d50f"
   },
-  "/docs/intro-aed": {
+  "/ISE-Docusaurus/docs/intro-28f": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/tutorial-basics/congratulations-793": {
+  "/ISE-Docusaurus/docs/tutorial-basics/congratulations-f02": {
     "__comp": "17896441",
     "content": "822bd8ab"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
+  "/ISE-Docusaurus/docs/tutorial-basics/create-a-blog-post-a2b": {
     "__comp": "17896441",
     "content": "533a09ca"
   },
-  "/docs/tutorial-basics/create-a-document-c2d": {
+  "/ISE-Docusaurus/docs/tutorial-basics/create-a-document-15b": {
     "__comp": "17896441",
     "content": "1e4232ab"
   },
-  "/docs/tutorial-basics/create-a-page-f44": {
+  "/ISE-Docusaurus/docs/tutorial-basics/create-a-page-df5": {
     "__comp": "17896441",
     "content": "5c868d36"
   },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
+  "/ISE-Docusaurus/docs/tutorial-basics/deploy-your-site-d1e": {
     "__comp": "17896441",
     "content": "f55d3e7a"
   },
-  "/docs/tutorial-basics/markdown-features-4b7": {
+  "/ISE-Docusaurus/docs/tutorial-basics/markdown-features-12d": {
     "__comp": "17896441",
     "content": "18c41134"
   },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+  "/ISE-Docusaurus/docs/tutorial-extras/manage-docs-versions-2fc": {
     "__comp": "17896441",
     "content": "dff1c289"
   },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
+  "/ISE-Docusaurus/docs/tutorial-extras/translate-your-site-020": {
     "__comp": "17896441",
     "content": "e44a2883"
   },
-  "/-a66": {
+  "/ISE-Docusaurus/-7be": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "82356b38"

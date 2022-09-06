@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkise_docs=self.webpackChunkise_docs||[]).push([[1408],{5404:s=>{s.exports=JSON.parse('{"permalink":"/ISE-Docusaurus/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

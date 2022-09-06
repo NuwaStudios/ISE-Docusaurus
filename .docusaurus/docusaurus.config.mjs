@@ -6,13 +6,14 @@
 export default {
   "title": "ISE Documentation",
   "tagline": "ISE Documentation Center",
-  "url": "https://www.nuwa.ie",
-  "baseUrl": "/",
+  "url": "https://nuwastudios.github.io",
+  "baseUrl": "/ISE-Docusaurus/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "Nüwa Digital Media Content Production Studios Limited",
+  "organizationName": "NuwaStudios",
   "projectName": "ISE-Docusaurus",
+  "deploymentBranch": "gh-pages",
   "i18n": {
     "defaultLocale": "en",
     "locales": [

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkise_docs=self.webpackChunkise_docs||[]).push([[5985],{1318:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/ISE-Docusaurus/blog/tags/hola","allTagsPath":"/ISE-Docusaurus/blog/tags","count":1}')}}]);
